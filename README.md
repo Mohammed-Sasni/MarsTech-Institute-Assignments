@@ -1,4 +1,4 @@
-# MarsTech-Institute
+# MarsTech-Institute-Assignments
 
 This repository contains the code and solutions for the Mars Tech assignment. The project focuses on **Artificial Intelligence (AI)** and **Cyber Security** concepts, showcasing the application of these technologies in solving relevant tasks.
 
