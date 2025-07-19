@@ -24,4 +24,4 @@ The goal of this assignment is to apply principles of AI and Cyber Security to r
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/Mohammed-Sasni/MarsTech-Institute.git
+   git clone https://github.com/Mohammed-Sasni/MarsTech-Institute-Assignments.git
